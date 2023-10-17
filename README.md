@@ -4,21 +4,12 @@
   <p> Growing up, I played online games as a way of leisure; these virtual battles won and lost have taught me what is now my life's most treasured motto: 'Never fear, only move forward.' </p>
 </div>
 
-&nbsp;
-&nbsp;
+<br>
+<br>
+<br>
+<br>
 
-  <div align="center">
-     ↑
-    <br> ←
-    <spacer type="horizontal" width="100" height="100"> 💬 </spacer>
-    →
-    <br> ↓
-  </div>
-
-&nbsp;
-&nbsp;
-
-# Language and Tools 🧬
+# Languages and Tools 🧬
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
