@@ -1,8 +1,7 @@
 <div id="header">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZDNpdWE0a2pqNHA4MGE5Nmxvb3RrdGprNmN4NXJtMTYxNjFlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GZ1kHk53BUdDXsQWmP/giphy.gif" width="200" align="right"/>
   <h1>Hello World ✨</h1>
-  <p> Growing up, I played online games as a way of leisure; \n
-  these virtual battles won and lost have taught me what is now my life's most treasured motto: 'Never fear, only move forward.'</p>
+  <p> Growing up, I played online games as a way of leisure; these virtual battles won and lost have taught me what is now my life's most treasured motto: <br /> 'Never fear, only move forward.'</p>
 </div>
 
 <br>
