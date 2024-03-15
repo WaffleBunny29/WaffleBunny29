@@ -1,15 +1,13 @@
 <div id="header">
-  <h1>Hello World ✨</h1>
-  <p> Growing up, I played online games as a way of leisure; <br /> these virtual battles won and lost have taught me what is now my life's most treasured motto: <br /><br /> 'Never fear, only move forward.'</p>
+  <h1> Hello World ✨ </h1>
+  <p> Growing up, I played online games as a way of leisure; <br /> these virtual battles won and lost have taught me what is now my life's most treasured motto: <br /><br /> 'Never fear, only move forward.' </p>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <h1> Languages and Tools 🧬 </h1>
 </div>
-
-<br>
-<br>
-<br>
-<br>
-
-# Languages and Tools 🧬
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <! --img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/&nbsp;-->
